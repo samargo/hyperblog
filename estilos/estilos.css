@@ -43,3 +43,10 @@ body {
     background-color: white;
     padding: 1em;
 }
+
+#footer {
+    background-color: aqua;
+    text-align: center;
+    border: 2px solid black;
+    padding: 0.5em;
+}
